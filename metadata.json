@@ -1,0 +1,6 @@
+{
+  "name": "CityVerse AI",
+  "description": "Multi-Agent Digital Twin for Predictive Smart City Management and Autonomous Decision Support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
